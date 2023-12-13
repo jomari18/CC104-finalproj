@@ -65,7 +65,7 @@ let products = [
     {
         id: 9,
         name: 'Beef Bourguigon',
-        image: 'Beef Bourguigon.PNG',
+        image: 'Beef Bourguigon.png',
         price: 1500
     },
     {
@@ -77,7 +77,7 @@ let products = [
     {
         id: 11,
         name: 'Ratatouille',
-        image: 'Ratatouille.PNG',
+        image: 'Ratatouille.png',
         price: 1500
     },
     {
