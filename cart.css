@@ -51,7 +51,7 @@ header .shopping span {
 
 .list .item {
     text-align: center;
-    background-color: #f8f8f8;
+    background-color: #f2f2f2;
     padding: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -92,18 +92,21 @@ header .shopping span {
     background-color: black;
 }
 .card {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: -300px;
     width: 300px;
-    background-color: white;
+    background-color: #f2f2f2;
     height: 100vh;
     transition: 0.5s;
     overflow-y: auto;
+    overflow-x: hidden; /* Add this line to hide horizontal overflow */
     padding: 20px;
     color: black;
-    z-index: 999;
+    z-index: 1000;
 }
+
+
 
 .active .card {
     right: 0;
@@ -114,6 +117,7 @@ header .shopping span {
     font-weight: 100;
     margin: 0;
     font-size: 1.5rem;
+    text-align: center;
 }
 
 .card .close-btn {
@@ -123,6 +127,7 @@ header .shopping span {
     font-size: 1.2rem;
     color: #fff;
     cursor: pointer;
+    
 }
 
 .card .checkOut {
@@ -132,7 +137,6 @@ header .shopping span {
 }
 
 .card .checkOut div {
-    background-color: #FF5F00;
     flex: 1;
     padding: 10px;
     text-align: center;
@@ -142,11 +146,10 @@ header .shopping span {
     margin: 0 5px;
 }
 
-.card .checkOut div:nth-child(2) {
-    background-color: #333;
-    color: #fff;
+.card .checkOut div:nth-child(1) {
+    background-color: white;
+    color: black;
 }
-
 
 .card .checkOut div:nth-child(2) {
     background-color: #333;
@@ -214,13 +217,20 @@ header .shopping span {
     color: #FF5F00;
 }
 .checkoutBtn {
-    background-color: #4caf50;
+    background-color:  #333;
     color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-weight: bold;
+    font-family: none;
 }
+
+
+
+
+
 
 
 
