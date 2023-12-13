@@ -23,31 +23,31 @@ let products = [
     {
         id: 2,
         name: 'Spicy Lobster',
-        image: 'Spicy Lobster.PNG',
+        image: 'Spicy Lobster.png',
         price: 1699
     },
     {
         id: 3,
         name: 'Baked Escargot',
-        image: 'Baked Escargot.PNG',
+        image: 'Baked Escargot.png',
         price: 2220
     },
     {
         id: 4,
         name: 'Seared Ahi Tuna',
-        image: 'Seared Ahi Tuna.PNG',
+        image: 'Seared Ahi Tuna.png',
         price: 1500
     },
     {
         id: 5,
         name: 'Prosciutto Wrapped Mozzarella',
-        image: 'Prosciutto Wrapped Mozzarella.PNG',
+        image: 'Prosciutto Wrapped Mozzarella.png',
         price: 1500
     },
     {
         id: 6,
         name: 'Caesar Salad with Bacon Bits',
-        image: 'Caesar Salad with Bacon Bits.PNG',
+        image: 'Caesar Salad with Bacon Bits.png',
         price: 1500
     },
     {
@@ -59,7 +59,7 @@ let products = [
     {
         id: 8,
         name: 'Artichauts à la barigoule',
-        image: 'Artichauts à la barigoule.PNG',
+        image: 'Artichauts à la barigoule.png',
         price: 1500
     },
     {
@@ -71,7 +71,7 @@ let products = [
     {
         id: 10,
         name: 'Sautéed Garlic Butter Mixed Vegetables',
-        image: 'Sautéed Garlic Butter Mixed Vegetables.PNG',
+        image: 'Sautéed Garlic Butter Mixed Vegetables.png',
         price: 1500
     },
     {
@@ -83,7 +83,7 @@ let products = [
     {
         id: 12,
         name: 'Steak au Poivre with Red Wine Pan Sauce',
-        image: 'Steak au Poivre with Red Wine Pan Sauce.PNG',
+        image: 'Steak au Poivre with Red Wine Pan Sauce.png',
         price: 1500
     },
     {
@@ -95,31 +95,31 @@ let products = [
     {
         id: 14,
         name: 'Lyon-Style Chicken with Vinegar Sauce',
-        image: 'Lyon-Style Chicken with Vinegar Sauce.PNG',
+        image: 'Lyon-Style Chicken with Vinegar Sauce.png',
         price: 1500
     },
     {
         id: 15,
         name: 'Stuffed Pork Tenderloins with Bacon and Apple-Riesling Sauce',
-        image: 'Stuffed Pork Tenderloins with Bacon and Apple-Riesling Sauce.PNG',
+        image: 'Stuffed Pork Tenderloins with Bacon and Apple-Riesling Sauce.png',
         price: 1500
     },
     {
         id: 16,
         name: 'Caribbean Chicken Salad',
-        image: 'Caribbean Chicken Salad.PNG',
+        image: 'Caribbean Chicken Salad.png',
         price: 1500
     },
     {
         id: 17,
         name: 'Lobster Thermidor',
-        image: 'Lobster Thermidor.PNG',
+        image: 'Lobster Thermidor.png',
         price: 1500
     },
     {
         id: 18,
         name: 'Marseille-Style Shrimp Stew',
-        image: 'Marseille-Style Shrimp Stew.PNG',
+        image: 'Marseille-Style Shrimp Stew.png',
         price: 1500
     },
     {
@@ -131,31 +131,31 @@ let products = [
     {
         id: 20,
         name: 'Sautéed Garlic Butter Mixed Vegetables',
-        image: 'Sautéed Garlic Butter Mixed Vegetables.PNG',
+        image: 'Sautéed Garlic Butter Mixed Vegetables.png',
         price: 1500
     },
     {
         id: 21,
         name: 'Artichauts à la barigoule',
-        image: 'Artichauts à la barigoule.PNG',
+        image: 'Artichauts à la barigoule.png',
         price: 1500
     },
     {
         id: 22,
         name: 'Endives au jambon',
-        image: 'Endives au jambon.PNG',
+        image: 'Endives au jambon.png',
         price: 1500
     },
     {
         id: 23,
         name: 'Mocha Mud Pie',
-        image: 'Mocha Mud Pie.PNG',
+        image: 'Mocha Mud Pie.png',
         price: 1500
     },
     {
         id: 24,
         name: 'CRÈME BRULÉE',
-        image: 'CRÈME BRULÉE.PNG',
+        image: 'CRÈME BRULÉE.png',
         price: 1500
     },
     {
@@ -167,25 +167,25 @@ let products = [
     {
         id: 26,
         name: 'Lemonade',
-        image: 'Lemonade.PNG',
+        image: 'Lemonade.png',
         price: 150
     },
     {
         id: 27,
         name: 'Thé glacé(iced tea)',
-        image: 'Thé glacé(iced tea).PNG',
+        image: 'Thé glacé(iced tea).png',
         price: 150
     },
     {
         id: 28,
         name: 'fresh buko',
-        image: 'fresh buko.PNG',
+        image: 'fresh buko.png',
         price: 150
     },
     {
         id: 28,
         name: 'calamansi juice',
-        image: 'calamansi juice.PNG',
+        image: 'calamansi juice.png',
         price: 150
     }
     
